@@ -15,4 +15,4 @@ Both the input files and actual solution were coded in **Java**.
 
 Approach was mostly greedy with minor sorting tweaks.
 
-See the Library and Solver classes in src/hashcode20 directory for more details.
+See the Library and Solver classes in src/hashcode20 directory for more details about the solution.
